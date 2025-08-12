@@ -17,4 +17,6 @@ INITIAL PROJECT SUCCESS CRITERIA
 -	The classification model should achieve at least 85% accuracy on the test dataset.
 - The model should maintain consistent performance across different publication types, with no class having an F1-score lower than 75%.
 - Predictions should be interpretable, allowing users to understand which features influenced the classification decision.
-http://BU README.md
+
+
+http://BUREADME.md
