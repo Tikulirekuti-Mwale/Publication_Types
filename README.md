@@ -14,9 +14,13 @@ DATA MINING GOALS
 We will build a classification model to automatically categorize publication records into predefined types (e.g., Journal Article, Conference Paper, Book Chapter, Technical Report, Thesis). The model will leverage features extracted from publication metadata (title, abstract, keywords, publisher) and possibly the content itself to predict the publication type.
 
 INITIAL PROJECT SUCCESS CRITERIA
--	The classification model should achieve at least 85% accuracy on the test dataset.
-- The model should maintain consistent performance across different publication types, with no class having an F1-score lower than 75%.
-- Predictions should be interpretable, allowing users to understand which features influenced the classification decision.
+Data Mining Success:
+- Achieve at least 85% accuracy on the test dataset.
+- Ensure no class has an F1-score below 75%.
+- Provide interpretable results so users can understand which features influenced predictions.
 
+Business Success:
+- Reduce manual classification time by at least 70%.
+- Improve consistency of classification across different publication types.
 
-http://BUREADME.md
+http://README.md
