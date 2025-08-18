@@ -1,5 +1,5 @@
 # Publication_Types 
-
+ 
 PROBLEM STATEMENT
 In academic and research databases, publications come in a variety of formats such as journal articles, conference papers, book chapters, reports, and theses. Without proper classification, users may struggle to filter and find relevant resources quickly. Manual classificaition is time-consuming, error-prone, and inconsistent. There is a need for an automated, accurate, and scalable system that can classify publication types based on their content, metadata, or structure.
 
